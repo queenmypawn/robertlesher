@@ -1,0 +1,9 @@
+Hostname,Management Address,Port,Code,Note,Device Type,Unique ID
+switch1,192.168.1.1,gi1/0/1,12.2.3(54),link to closet a,2960,1
+switch1,192.168.1.1,gi1/0/2,12.2.3(54),link to closet b,2960,2
+switch1,192.168.1.1,gi1/0/3,12.2.3(54),link to closet c,2960,3
+switch1,192.168.1.1,gi1/0/4,12.2.3(54),link to internet,2960,4
+switch2,192.168.1.2,gi1/1,12.2.5(54),link to core,3560,1
+switch3,192.168.1.3,gi1/0/1,12.3.3(54),link to core,9400,2
+switch4,192.168.1.4,gi1/0/1,12.2.3(54),link to core,3750,3
+internet,internet,internet,internet,link to internet,internet,4
